@@ -4,6 +4,7 @@
 The purpose of this election analysis is to identify the top three counties and top three candidates with the most votes. 
 
 See below as the analysis reuslts.
+
 ![image](https://github.com/sunnycywong/Module3_Election_Analysis/blob/main/PyPoll_Challenge_Screenshot.png)
 
 ## (2) Election Audit Results
